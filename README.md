@@ -1,5 +1,4 @@
 # Mixed-code
-#!/bin/python3
 from pygal import Bar
 import time
 import random
